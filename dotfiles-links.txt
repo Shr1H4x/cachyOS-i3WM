@@ -1,0 +1,4 @@
+https://www.reddit.com/r/unixporn/comments/8monwi/i3gapspolybar_my_first_attempt_at_ricing/ 
+https://github.com/onprem/dotfiles https://github.com/berthosefin/dotfiles/tree/main/home 
+https://polybar.github.io/
+https://github.com/adi1090x/polybar-themes
